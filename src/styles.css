@@ -1,0 +1,37 @@
+.heading {
+  color: green;
+  font-size: 50px;
+  font-style: italic;
+}
+.input_field {
+  width: 500px;
+  height: 30px;
+  text-align: center;
+  font-size: 15px;
+  border: 2px solid rgb(31, 196, 31);
+  background-color: rgb(190, 248, 190);
+}
+.button {
+  height: 36px;
+  width: 100px;
+  color: green;
+  font-size: 15px;
+  background-color: rgb(58, 226, 58);
+  border: 2px solid rgb(31, 196, 31);
+}
+.button:hover {
+  background-color: rgb(52, 214, 52);
+  color: white;
+}
+.todo {
+  padding: 7px;
+  margin-left: 380px;
+  margin-top: 10px;
+  border: 2px solid rgb(39, 190, 39);
+  width: 500px;
+  height: 25px;
+  text-align: left;
+  list-style-type: none;
+  color: rgb(1, 88, 1);
+  font-size: 15px;
+}
